@@ -1,0 +1,50 @@
+#root{
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  padding-top: 3%;
+  height: 0;
+}
+
+.App-logo {
+  height: 5vmin;
+  pointer-events: none;
+}
+
+@keyframes logoAnimation {
+  0% {
+    transform: scale(1);
+    opacity: 0;
+  }
+
+  100% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: logoAnimation 1.5s ease-in-out;
+    animation-fill-mode: forwards;
+    opacity: 0;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .App-title {
+    animation: logoAnimation 1.5s ease-in-out;
+    animation-fill-mode: forwards;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.App-header {
+  height: 0;
+  color: white;
+}
