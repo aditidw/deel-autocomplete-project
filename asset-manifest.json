@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deel-autocomplete-project/static/css/main.29a68701.css",
+    "main.js": "/deel-autocomplete-project/static/js/main.774f719d.js",
+    "static/js/787.47e172ea.chunk.js": "/deel-autocomplete-project/static/js/787.47e172ea.chunk.js",
+    "static/media/Deel-Logo.svg": "/deel-autocomplete-project/static/media/Deel-Logo.e80ad86985ef7ccc601a0de194d53d77.svg",
+    "index.html": "/deel-autocomplete-project/index.html",
+    "main.29a68701.css.map": "/deel-autocomplete-project/static/css/main.29a68701.css.map",
+    "main.774f719d.js.map": "/deel-autocomplete-project/static/js/main.774f719d.js.map",
+    "787.47e172ea.chunk.js.map": "/deel-autocomplete-project/static/js/787.47e172ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29a68701.css",
+    "static/js/main.774f719d.js"
+  ]
+}
